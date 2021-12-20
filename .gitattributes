@@ -3,3 +3,6 @@ Wheat[[:space:]]Loose[[:space:]]Smut/*.png filter=lfs diff=lfs merge=lfs -text
 What[[:space:]]Loose[[:space:]]Smut/*.jpg filter=lfs diff=lfs merge=lfs -text
 Leaf[[:space:]]Rust/*.png filter=lfs diff=lfs merge=lfs -text
 Leaf[[:space:]]Rust/*.jpg filter=lfs diff=lfs merge=lfs -text
+Healthy[[:space:]]Wheat/*.jpg filter=lfs diff=lfs merge=lfs -text
+Healthy[[:space:]]Wheat/*.png filter=lfs diff=lfs merge=lfs -text
+Healthy[[:space:]]Wheat/*.jpeg filter=lfs diff=lfs merge=lfs -text
