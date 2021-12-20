@@ -1,1 +1,3 @@
 Crown[[:space:]]and[[:space:]]Root[[:space:]]Rot/*.gif filter=lfs diff=lfs merge=lfs -text
+Wheat[[:space:]]Loose[[:space:]]Smut/*.png filter=lfs diff=lfs merge=lfs -text
+What[[:space:]]Loose[[:space:]]Smut/*.jpg filter=lfs diff=lfs merge=lfs -text
