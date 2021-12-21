@@ -1,6 +1,6 @@
 # Wheat Disease Detection 
 
-Products from wheat are available almost everywhere.
+Products from wheat are available almost everywhere. Looking at various products such as bread and other food items, we see that most of them are made with some component of wheat. 
 
 ## 👉 Directions to download the repository and run the notebook 
 
