@@ -4,7 +4,9 @@ Products from wheat are available almost everywhere. Looking at various products
 
 When producing wheat, there might be various diseases attached to them. There could be diseases such as Stripe Rust that affects the growth of wheat. As a result, the produce for that particular field is reduced to a large extent. 
 
-Identifying and combating this task seems to be the primary challenge for farmers as they would have to manually look at all the crops and carefully analyze their health before taking steps to prevent them. As it is manually time consuming to guage the health of wheat as there are lots of them available in fields, it would be good to use artificial intelligence and deep learning to combat this problem. 
+Identifying and combating this task seems to be the primary challenge for farmers. This is because they would have to manually look at all the crops and carefully analyze their health before taking steps to prevent them. As it is manually time consuming to guage the health of wheat as there are lots of them available in fields, it would be good to use artificial intelligence and deep learning to combat this problem. 
+
+With an improvement in technology and computational resources, it has become easier to training and deploy deep learning models, specifically for tasks such as computer vision. 
 
 ## 👉 Directions to download the repository and run the notebook 
 
