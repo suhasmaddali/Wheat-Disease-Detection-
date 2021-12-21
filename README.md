@@ -4,7 +4,7 @@
 
 Products from wheat are available almost everywhere. Looking at various products such as bread and other food items, we see that most of them are made with some component of wheat. Therefore, we could see how uniquitous the presence of wheat is in our nutrition. 
 
-<img src = "https://github.com/suhasmaddali/Images/blob/main/hello-i-m-nik-AC_mtXehWzo-unsplash.jpg" width = "500" height = "350" /> <img src = "https://github.com/suhasmaddali/Images/blob/main/ales-krivec-QnNqGoCnBg0-unsplash.jpg" width = "500" height = "350"/>
+<img src = "https://github.com/suhasmaddali/Images/blob/main/hello-i-m-nik-AC_mtXehWzo-unsplash.jpg" width = "450" height = "350" /> <img src = "https://github.com/suhasmaddali/Images/blob/main/ales-krivec-QnNqGoCnBg0-unsplash.jpg" width = "450" height = "350"/>
 
 When producing wheat, there might be various diseases attached to them. There could be diseases such as Stripe Rust that affects the growth of wheat. As a result, the produce for that particular field is reduced to a large extent. 
 
