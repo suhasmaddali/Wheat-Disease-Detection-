@@ -1,6 +1,18 @@
-# Wheat Disease Detection 
+# 🌾 Wheat Disease Detection 
 
-Products from wheat are available almost everywhere.
+[![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://www.python.org)  [![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org) [![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/) [![](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)](https://www.scipy.org) [![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org) [![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)  [![](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com) [![](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)](https://keras.io) [![](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com)
+
+Products from wheat are available almost everywhere. Looking at various products such as bread and other food items, we see that most of them are made with some component of wheat. Therefore, we could see how uniquitous the presence of wheat is in our nutrition. 
+
+<img src = "https://github.com/suhasmaddali/Images/blob/main/hello-i-m-nik-AC_mtXehWzo-unsplash.jpg" width = "450" height = "350" /> <img src = "https://github.com/suhasmaddali/Images/blob/main/ales-krivec-QnNqGoCnBg0-unsplash.jpg" width = "450" height = "350"/>
+
+When producing wheat, there might be various diseases attached to them. There could be diseases such as [Stripe Rust](https://smallgrains.wsu.edu/disease-resources/foliar-fungal-diseases/stripe-rust/) that affects the growth of wheat. As a result, the produce for that particular field is reduced to a large extent. 
+
+Identifying and combating this task seems to be the primary challenge for farmers. This is because they would have to manually look at all the crops and carefully analyze their health before taking steps to prevent them. As it is manually time consuming to guage the health of wheat as there are lots of them available in fields, it would be good to use artificial intelligence and deep learning to combat this problem. 
+
+With an improvement in technology and computational resources, it has become easier to train and deploy deep learning models, specifically for tasks such as computer vision. Therefore, we could leverage this technology to identify various diseases associated with wheat without manually having to identify them. As a result, this would save a lot of time and effort on the part of the farmers and research scientists in the field of wheat produce respectively.  
+
+In the ipython notebook, the images of wheat are taken and trained before giving them to the computer vision models for prediction of different kinds of diseases. Feel free to take a look. Thanks. 
 
 ## 👉 Directions to download the repository and run the notebook 
 
