@@ -1,6 +1,10 @@
 # 🌾 Wheat Disease Detection 
 
-Products from wheat are available almost everywhere. Looking at various products such as bread and other food items, we see that most of them are made with some component of wheat. 
+Products from wheat are available almost everywhere. Looking at various products such as bread and other food items, we see that most of them are made with some component of wheat. Therefore, we could see how uniquitous the presence of wheat is in our nutrition. 
+
+When producing wheat, there might be various diseases attached to them. There could be diseases such as Stripe Rust that affects the growth of wheat. As a result, the produce for that particular field is reduced to a large extent. 
+
+Identifying and combating this task seems to be a the primary challenge for farmers as they would have to manually look at all the crops and carefully analyze their health before taking steps to prevent them. 
 
 ## 👉 Directions to download the repository and run the notebook 
 
