@@ -8,6 +8,8 @@ Identifying and combating this task seems to be the primary challenge for farmer
 
 With an improvement in technology and computational resources, it has become easier to train and deploy deep learning models, specifically for tasks such as computer vision. Therefore, we could leverage this technology to identify various diseases associated with wheat without manually having to identify them. As a result, this would save a lot of time and effort on the part of the farmers and research scientists in the field of wheat produce respectively.  
 
+In the ipython notebook, the images of wheat are taken and trained before giving them to the computer vision models for prediction of different kinds of diseases. Feel free to take a look. Thanks. 
+
 ## 👉 Directions to download the repository and run the notebook 
 
 This is for the Washington Bike Demand Prediction repository. But the same steps could be followed for this repository. 
