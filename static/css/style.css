@@ -1,0 +1,10 @@
+.container {
+    background-color: aqua;
+    color: blue;
+}
+
+header {
+    background-color: blue;
+    height: 100px;
+    width: 1024px;
+}

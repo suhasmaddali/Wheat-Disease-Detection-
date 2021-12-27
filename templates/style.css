@@ -1,0 +1,35 @@
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+
+header {
+    background-color: green;
+    height: 100px;
+    width: 1024px;
+    align-items: center;
+}
+
+nav {
+    background-color: orange;
+    height: 50px;
+    width: 1024px;
+}
+
+main {
+    background-color: blue;
+    height: 500px;
+    width: 1024px;
+}
+
+footer {
+    background-color: violet;
+    height: 50px;
+    width: 1024px;
+}
+
+h {
+    text-align: center;
+    padding-top: 30px;
+}
