@@ -66,7 +66,7 @@ main p {
     padding-right: 150px;
     color: white;
     font-family:Arial, Helvetica, sans-serif;
-
+    font-size: 18px;
 }
 
 footer {
@@ -74,7 +74,7 @@ footer {
     color: white;
     padding-left: 150px;
     padding-right: 150px;
-    font-size: 10px;
+    font-size: 15px;
     padding-top: 15px;
     text-align: center;
 
