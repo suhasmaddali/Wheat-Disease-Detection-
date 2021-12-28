@@ -19,11 +19,10 @@ body {
 }
 
 header {
-    background-color: green;
     height: 100px;
     width: 1024px;
-    align-items: center;
-    font-size: 200px;
+    padding-top: 30px;
+    text-align: center;
 }
 
 nav {
