@@ -4,7 +4,9 @@
 
 ## Training with NVIDIA's RTX 2080 graphics card for Computer Vision Tasks 
 
-
+1. GPU-accelerated deep learning frameworks offer flexibility to design and train deep neural networks.
+2. With cuDNN and Nvidia's graphics drivers, I was able to train the models really quickly by using GPU cores rather than the CPU cores.
+3. This led to a significant increase in the speed of training and developing a convolutional neural networks (CNNs). 
 
 Products from wheat are available almost everywhere. Looking at various products such as bread and other food items, we see that most of them are made with some component of wheat. Therefore, we could see how uniquitous the presence of wheat is in our nutrition. 
 
