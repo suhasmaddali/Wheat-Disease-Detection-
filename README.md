@@ -11,7 +11,7 @@ Products from wheat are available almost everywhere. Looking at various products
 
 1. GPU-accelerated deep learning frameworks offer flexibility to design and train deep neural networks.
 2. With cuDNN and Nvidia's graphics drivers, I was able to train the models really quickly by using GPU cores rather than the CPU cores.
-3. This led to a significant increase in the speed of training and developing a convolutional neural networks (CNNs). 
+3. This led to a significant increase in the speed of training and developing convolutional neural networks (CNNs). 
 
 When producing wheat, however, there might be various diseases attached to them. There could be diseases such as [Stripe Rust](https://smallgrains.wsu.edu/disease-resources/foliar-fungal-diseases/stripe-rust/) that affects the growth of wheat. As a result, the produce for that particular field is reduced to a large extent. 
 
