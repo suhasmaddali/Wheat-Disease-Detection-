@@ -13,6 +13,7 @@ Products from wheat are available almost everywhere. Looking at various products
 2. With cuDNN and Nvidia's graphics drivers, I was able to train the models really quickly by using GPU cores rather than the CPU cores.
 3. This led to a significant increase in the speed of training and developing convolutional neural networks (CNNs). 
 
+## Challenges
 When producing wheat, however, there might be various diseases attached to them. There could be diseases such as [Stripe Rust](https://smallgrains.wsu.edu/disease-resources/foliar-fungal-diseases/stripe-rust/) that affects the growth of wheat. As a result, the produce for that particular field is reduced to a large extent. 
 
 Identifying and combating this task seems to be the primary challenge for farmers. This is because they would have to manually look at all the crops and carefully analyze their health before taking steps to prevent them. As it is manually time consuming to guage the health of wheat as there are lots of them available in fields, it would be good to use artificial intelligence and deep learning to combat this problem. 
