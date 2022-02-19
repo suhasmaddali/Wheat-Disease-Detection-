@@ -7,12 +7,6 @@ Products from __wheat__ are available almost everywhere. Looking at various prod
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/hello-i-m-nik-AC_mtXehWzo-unsplash.jpg" width = "450" height = "350" /> <img src = "https://github.com/suhasmaddali/Images/blob/main/ales-krivec-QnNqGoCnBg0-unsplash.jpg" width = "450" height = "350"/>
 
-## 💻 Training with NVIDIA's RTX 2080 graphics card for Computer Vision Tasks 
-
-1. GPU-accelerated deep learning frameworks offer flexibility to design and train deep neural networks.
-2. With cuDNN and Nvidia's graphics drivers, I was able to train the models really quickly by using GPU cores rather than the CPU cores.
-3. This led to a significant increase in the speed of training and developing convolutional neural networks (CNNs). 
-
 ## Challenges
 When producing wheat, however, there might be various diseases attached to them. There could be diseases such as [Stripe Rust](https://smallgrains.wsu.edu/disease-resources/foliar-fungal-diseases/stripe-rust/) that affects the growth of wheat. As a result, the produce for that particular field is reduced to a large extent. 
 
@@ -22,6 +16,13 @@ __Identifying__ and __combating__ this task seems to be the primary challenge fo
 With an improvement in technology and computational resources, it has become easier to train and deploy deep learning models, specifically for tasks such as [computer vision](https://www.ibm.com/topics/computer-vision). Therefore, we could leverage this technology to identify various diseases associated with wheat without manually having to identify them. As a result, this would save a lot of time and effort on the part of the farmers and research scientists in the field of wheat produce respectively.  
 
 In the ipython notebook, the images of wheat are taken and trained before giving them to the computer vision models for prediction of different kinds of diseases. Feel free to take a look. Thanks. 
+
+## 💻 Training with NVIDIA's RTX 2080 graphics card for Computer Vision Tasks 
+
+1. GPU-accelerated deep learning frameworks offer flexibility to design and train deep neural networks.
+2. With cuDNN and Nvidia's graphics drivers, I was able to train the models really quickly by using GPU cores rather than the CPU cores.
+3. This led to a significant increase in the speed of training and developing convolutional neural networks (CNNs). 
+
 
 ## 👉 Directions to download the repository and run the notebook 
 
