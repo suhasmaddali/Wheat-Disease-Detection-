@@ -23,7 +23,8 @@ With an improvement in technology and computational resources, it has become eas
 * Furthermore, __VGG19__ was also being deployed in real-time where users can get to upload their own images of wheat and get to know if the wheat plant in the images is healthy or has diseases. 
 
 ## Future Scope
-More high precision images from wheat plants could be collected and analyzed so that in different climatic conditions, the model would be able to accurately predict whether a wheat plant has disease or not. 
+* More high precision images from wheat plants could be collected and analyzed under different climatic and lighting conditions.
+* It could be integrated in camera where on real-time, the camera could be able to provide regular updates about the condition of wheat plants. 
 
 
 In the ipython notebook, the images of wheat are taken and trained before giving them to the computer vision models for prediction of different kinds of diseases. Feel free to take a look. Thanks.
