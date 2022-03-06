@@ -18,7 +18,7 @@ With an improvement in technology and computational resources, it has become eas
 In the ipython notebook, the images of wheat are taken and trained before giving them to the computer vision models for prediction of different kinds of diseases. Feel free to take a look. Thanks. 
 
 ## Outcome
-The computer vision model that was performing the best in classifying the diseases in wheat plants is VGG19. 
+The computer vision model that was performing the best in classifying the diseases in wheat plants is VGG19. With this model, the accuracy for classifying the diseases in wheat plants was 95% on the test data (data that the model has not seen before). 
 
 ## 💻 Training with NVIDIA's RTX 2080 graphics card for Computer Vision Tasks 
 
