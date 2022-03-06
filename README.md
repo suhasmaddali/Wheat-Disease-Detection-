@@ -24,7 +24,7 @@ With an improvement in technology and computational resources, it has become eas
 
 ## Future Scope
 * More high precision images from wheat plants could be collected and analyzed under different __climatic__ and __lighting__ conditions.
-* It could be integrated with a __camera__ where it could be able to provide regular updates about the condition of wheat plants. 
+* It could be integrated with a __camera__ where it is able to provide regular updates about the condition of wheat plants. 
 
 
 In the ipython notebook, the images of wheat are taken and trained before giving them to the computer vision models for prediction of different kinds of diseases. Feel free to take a look. Thanks.
