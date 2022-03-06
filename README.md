@@ -15,10 +15,7 @@ __Identifying__ and __combating__ this task seems to be the primary challenge fo
 ## Computer Vision 
 With an improvement in technology and computational resources, it has become easier to train and deploy deep learning models, specifically for tasks such as [computer vision](https://www.ibm.com/topics/computer-vision). Therefore, we could leverage this technology to identify various diseases associated with wheat without manually having to identify them. As a result, this would save a lot of time and effort on the part of the farmers and research scientists in the field of agriculture respectively. 
 
-* Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
+* 
 
 ## Outcomes
 The __computer vision__ model that was performing the best in classifying the diseases in wheat plants is __VGG19__. With this model, the accuracy for classifying the diseases in wheat plants was __95%__ on the test data (data that the model has not seen before). 
