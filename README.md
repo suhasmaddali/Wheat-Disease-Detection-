@@ -18,7 +18,9 @@ With an improvement in technology and computational resources, it has become eas
 
 
 ## Outcomes
-* The __computer vision__ model that was performing the best in classifying the diseases in wheat plants is __VGG19__. With this model, the accuracy for classifying the diseases in wheat plants was __95%__ on the test data (data that the model has not seen before). 
+* The __computer vision__ model that was performing the best in classifying the diseases in wheat plants is __VGG19__. 
+* 
+* The accuracy for classifying the diseases in wheat plants was __95%__ on the test data (data that the model has not seen before). 
 
 Furthermore, __VGG19__ was also being deployed in real-time where users can get to upload their own images of wheat and get to know if the wheat plant in the images is healthy or has diseases. 
 
