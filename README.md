@@ -15,16 +15,17 @@ __Identifying__ and __combating__ this task seems to be the primary challenge fo
 ## Computer Vision 
 With an improvement in technology and computational resources, it has become easier to train and deploy deep learning models, specifically for tasks such as [computer vision](https://www.ibm.com/topics/computer-vision). Therefore, we could leverage this technology to identify various diseases associated with wheat without manually having to identify them. As a result, this would save a lot of time and effort on the part of the farmers and research scientists in the field of agriculture respectively. 
 
-## Future Scope
-More high precision images from wheat plants could be collected and analyzed so that in different climatic conditions, the model would be able to accurately predict whether a wheat plant has disease or not. 
-
-
-In the ipython notebook, the images of wheat are taken and trained before giving them to the computer vision models for prediction of different kinds of diseases. Feel free to take a look. Thanks. 
 
 ## Outcomes
 The __computer vision__ model that was performing the best in classifying the diseases in wheat plants is __VGG19__. With this model, the accuracy for classifying the diseases in wheat plants was __95%__ on the test data (data that the model has not seen before). 
 
 Furthermore, __VGG19__ was also being deployed in real-time where users can get to upload their own images of wheat and get to know if the wheat plant in the images is healthy or has diseases. 
+
+## Future Scope
+More high precision images from wheat plants could be collected and analyzed so that in different climatic conditions, the model would be able to accurately predict whether a wheat plant has disease or not. 
+
+
+In the ipython notebook, the images of wheat are taken and trained before giving them to the computer vision models for prediction of different kinds of diseases. Feel free to take a look. Thanks.
 
 ## 💻 Training with NVIDIA's RTX 2080 graphics card for Computer Vision Tasks 
 
