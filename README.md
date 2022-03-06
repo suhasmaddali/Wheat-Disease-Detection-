@@ -23,7 +23,7 @@ With an improvement in technology and computational resources, it has become eas
 * Furthermore, __VGG19__ was also being deployed in real-time where users can get to upload their own images of wheat and get to know if the wheat plant in the images is healthy or has diseases. 
 
 ## Future Scope
-* More high precision images from wheat plants could be collected and analyzed under different climatic and lighting conditions.
+* More high precision images from wheat plants could be collected and analyzed under different __climatic__ and __lighting__ conditions.
 * It could be integrated with a camera where it could be able to provide regular updates about the condition of wheat plants. 
 
 
